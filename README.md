@@ -1,4 +1,4 @@
-A Storage Manager design and implementation
+# Storage Manager Design and Implementation
 
 ## How to run? 
 
